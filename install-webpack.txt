@@ -23,3 +23,7 @@ View bundled webpack server immediately:
 npm install --save-dev webpack-dev-server
 
 To run this use: npx webpack serve
+
+If package.json exists, you can install npm with it by simply using:
+
+npm install
